@@ -1,5 +1,6 @@
 【16进制转为字符串】
 如 char buf[3] = {0x01, 0x02, 0x03} 转为 010203
+
 void Hex2Str( char *sSrc, char *sDest, int nSrcLen )
 {
 	int i;
