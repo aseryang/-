@@ -13,3 +13,5 @@ void Hex2Str( char *sSrc, char *sDest, int nSrcLen )
 	}
 	return ;
 }
+【log4cpp使用】
+http://blog.csdn.net/kingskyleader/article/details/7320826
