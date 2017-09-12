@@ -13,11 +13,6 @@ void Hex2Str( char *sSrc, char *sDest, int nSrcLen )
 	}
 	return ;
 }
-#include "stdafx.h"
-#include "stdio.h"
-#include <string.h>
-#include <iostream>
-using namespace std;
 
 
 void Hex2Str(unsigned char *sSrc, unsigned char *sDest, int nSrcLen ) 
